@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Jeongjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongjaeeom)](https://github.com/jeongjaeeom/github-readme-stats)
+[![Blog](https://img.shields.io/badge/Blog-jeongjaeeom.github.io-green.svg)](https://jeongjaeeom.github.io/)
